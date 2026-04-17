@@ -1,6 +1,6 @@
 # 🧠 SDT-OCR: Spiking Transformer for Text Transcription
 
-## 🧩 Model Architecture
+## 🧩 Spike-Driven Transformer (SDT) Architecture
 
 ![SDT Architecture](sdt_architecture.png)
 
@@ -67,5 +67,5 @@ The model learns to transcribe text from synthetic data using a spiking-based tr
 
 ## 👤 Author
 
-Soidad Soule Ahamada
+**Soidad Soule Ahamada**  
 MSc Student in Image and Artificial Intelligence
