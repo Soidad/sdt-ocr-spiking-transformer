@@ -51,6 +51,31 @@ The file **Transcription_de_texte.ipynb** is used to:
 
 ---
 
+## 📦 Requirements
+
+This project requires Python 3.8+ and a CUDA-compatible GPU.
+
+The following libraries are needed:
+
+- PyTorch (CUDA 12.1)
+- torchvision
+- torchaudio
+- timm
+- spikingjelly
+- datasets
+- pillow
+- numpy
+- matplotlib
+- tqdm
+
+### 🔧 Installation (GPU only)
+
+```bash
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+pip install timm spikingjelly datasets pillow numpy matplotlib tqdm
+```
+---
+
 ## ▶️ How to Run
 
 ```
