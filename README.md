@@ -1,6 +1,6 @@
 # 🧠 SDT-OCR: Spiking Transformer for Text Transcription
 
-## 🧩 Spike-Driven Transformer (SDT) Architecture
+## 🧩 Spike-Driven Transformer (SDT) Architecture (Reference Model)
 
 ![SDT Architecture](sdt_architecture.png)
 
