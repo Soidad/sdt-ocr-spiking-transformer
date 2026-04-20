@@ -86,7 +86,7 @@ python train.py
 
 ## 📈 Results
 
-### Training Performance
+##### Training Performance
 
 ![Training vs Validation Loss](loss_curve.png)
 
@@ -94,7 +94,7 @@ The model shows a stable convergence during training, with both training and val
 
 ---
 
-### Evaluation (Character Error Rate - CER)
+##### Evaluation (Character Error Rate - CER)
 
 ![CER Distribution](cer_distribution.png)
 
