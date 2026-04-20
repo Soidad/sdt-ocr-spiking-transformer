@@ -88,7 +88,9 @@ python train.py
 
 #### Training Performance
 
-![Training vs Validation Loss](loss_curve.png)
+<p align="center">
+  <img src="loss_curve.png" width="600"/>
+</p>
 
 The model shows a stable convergence during training, with both training and validation losses decreasing over epochs.
 
@@ -96,7 +98,9 @@ The model shows a stable convergence during training, with both training and val
 
 #### Evaluation (Character Error Rate - CER)
 
-![CER Distribution](cer_distribution.png)
+<p align="center">
+  <img src="cer_distribution.png" width="600"/>
+</p>
 
 The model achieves the following performance on the test set:
 
