@@ -86,7 +86,26 @@ python train.py
 
 ## 📈 Results
 
-The model learns to transcribe text from synthetic data using a spiking-based transformer architecture.
+### Training Performance
+
+![Training vs Validation Loss](loss_curve.png)
+
+The model shows a stable convergence during training, with both training and validation losses decreasing over epochs.
+
+---
+
+### Evaluation (Character Error Rate - CER)
+
+![CER Distribution](cer_distribution.png)
+
+The model achieves the following performance on the test set:
+
+- **Mean CER:** 5.17%  
+- **Median CER:** 4.17%  
+- **Min CER:** 0.0%  
+- **Max CER:** 38.46%  
+
+These results indicate that the model performs well on most samples, with a low average error rate, while a few challenging cases lead to higher errors.
 
 ---
 
